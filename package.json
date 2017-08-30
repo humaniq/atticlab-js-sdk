@@ -82,7 +82,7 @@
     "eventsource": "^0.2.1",
     "jsdoc": "^3.4.1",
     "lodash": "^4.0.1",
-    "js-base": "git+http://bitbucket.attic.pw/scm/hum/js-base.git",
+    "js-base": "git+http://github.com/humaniq/js-base.git",
     "toml": "^2.3.0"
   }
 }
